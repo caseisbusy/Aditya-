@@ -1,0 +1,22 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bash start.sh"
+  },
+  "keywords": [],
+  "author": "Aditya Codez",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "erela.js": "^2.3.3",
+    "express": "^4.17.3",
+    "glob": "^7.2.0"
+  },
+  "devDependencies": {
+    "node": "16.12.x"
+  }
+}
