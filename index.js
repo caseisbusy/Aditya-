@@ -42,3 +42,5 @@ require('events').defaultMaxListeners = 25;
 
 const { server } = require("./server.ts")
 server({ port: 3000 })
+
+console.log("Everything is ready")
